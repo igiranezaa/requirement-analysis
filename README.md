@@ -31,19 +31,23 @@ Requirement Analysis is a crucial step in the SDLC because it ensures that softw
 
 ## Key Activities in Requirement Analysis
 
-Requirement Analysis involves several important activities to ensure that the software meets stakeholders' needs. The five key activities are:
+- **Requirement Gathering**  
+  - Collect information from stakeholders to understand their needs and expectations.  
+  - Techniques: interviews, surveys, workshops, observation, document review.
 
-- **Requirement Gathering:**  
-  Collecting information from stakeholders to understand their needs and expectations. Techniques include interviews, surveys, workshops, observation, and reviewing existing documentation.
+- **Requirement Elicitation**  
+  - Refine and elaborate on gathered information.  
+  - Techniques: brainstorming sessions, focus groups, prototyping.
 
-- **Requirement Elicitation:**  
-  Refining and elaborating on the gathered information. Methods include brainstorming sessions, focus groups, and creating prototypes to help stakeholders visualize the system.
+- **Requirement Documentation**  
+  - Record requirements in a structured format.  
+  - Tools: requirement specification documents, user stories, use case diagrams.
 
-- **Requirement Documentation:**  
-  Recording requirements in a clear, structured format. This includes writing requirement specification documents, user stories, and use case diagrams for functional and non-functional requirements.
+- **Requirement Analysis and Modeling**  
+  - Examine and prioritize requirements based on importance and feasibility.  
+  - Tools: data flow diagrams, entity-relationship diagrams, other modeling techniques.
 
-- **Requirement Analysis and Modeling:**  
-  Examining and prioritizing requirements based on importance and feasibility. This step may involve creating models like data flow diagrams or entity-relationship diagrams to better understand the system.
+- **Requirement Validation**  
+  - Review requirements with stakeholders to ensure accuracy and completeness.  
+  - Includes defining acceptance criteria and maintaining traceability.
 
-- **Requirement Validation:**  
-  Reviewing documented requirements with stakeholders to ensure accuracy and completeness. This includes defining acceptance criteria and maintaining traceability to ensure all requirements are addressed during development and testing.
