@@ -50,4 +50,31 @@ Requirement Analysis is a crucial step in the SDLC because it ensures that softw
 - **Requirement Validation**  
   - Review requirements with stakeholders to ensure accuracy and completeness.  
   - Includes defining acceptance criteria and maintaining traceability.
+## Types of Requirements
+
+### Functional Requirements
+**Definition:** Functional requirements describe what the system should do. They define the specific features and behaviors of the software.
+
+**Examples for the Booking Management System:**  
+- **Search Properties:** Users can search for hotels or rooms based on location, price, and availability.  
+- **User Registration & Authentication:** Users can create accounts, log in, and manage profiles securely.  
+- **Booking Management:** Users can book rooms, view booking details, and cancel or modify bookings.  
+- **Payment Integration:** Users can make payments securely through integrated payment gateways.  
+- **Admin Dashboard:** Admins can manage property listings, bookings, and generate reports.  
+- **Notifications:** Users receive booking confirmations and reminders via email or SMS.
+
+---
+
+### Non-functional Requirements
+**Definition:** Non-functional requirements describe how the system should perform. They cover performance, security, usability, reliability, and scalability.
+
+**Examples for the Booking Management System:**  
+- **Performance:** Pages should load within 2 seconds and support up to 1000 concurrent users.  
+- **Security:** Data encryption, secure login, and protection against common vulnerabilities.  
+- **Scalability:** System should handle growing user traffic and property listings efficiently.  
+- **Usability:** Intuitive and user-friendly interface for both customers and admins.  
+- **Reliability:** High uptime (e.g., 99.9%) with quick recovery from failures.  
+- **Maintainability:** Modular design that allows easy updates and feature additions.  
+- **Compliance:** Adhere to data protection regulations (e.g., GDPR).
+
 
