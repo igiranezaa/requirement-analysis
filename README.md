@@ -106,8 +106,22 @@ The key actors and use cases are:
 - Manage Property Listings  
 - Send Notifications  
 
-**Diagram:**  
-You can create the use case diagram using **Draw.io** or any similar diagram tool. Save it as **alx-booking-uc.png** and place it in your repository. Then link it in your README as follows:
 
 ![Use Case Diagram](alx-booking-uc.png)
+
+## Acceptance Criteria
+
+**Importance:**  
+Acceptance Criteria define the specific conditions that a feature must meet to be considered complete and accepted by stakeholders. They are essential in Requirement Analysis because they:  
+- Ensure all parties (developers, testers, stakeholders) have a clear and shared understanding of feature expectations.  
+- Provide measurable conditions to verify that a feature works as intended.  
+- Help maintain quality and prevent misunderstandings or incomplete implementations.  
+
+**Example for the Checkout Feature in the Booking Management System:**  
+- Users can select available rooms and dates.  
+- Users can enter payment details and successfully process the payment.  
+- Users receive a confirmation email within 2 minutes of completing the booking.  
+- System updates the booking database immediately to prevent double-booking.  
+- Error messages are displayed clearly if payment fails or the selected room is no longer available.  
+
 
