@@ -77,4 +77,37 @@ Requirement Analysis is a crucial step in the SDLC because it ensures that softw
 - **Maintainability:** Modular design that allows easy updates and feature additions.  
 - **Compliance:** Adhere to data protection regulations (e.g., GDPR).
 
+## Use Case Diagrams
+
+**Definition:**  
+Use Case Diagrams visually represent how users (actors) interact with a system to achieve specific goals (use cases). They help show the functionality of a system from the user’s perspective.
+
+**Benefits:**  
+- Provide a clear overview of system functionalities.  
+- Help identify all the interactions between users and the system.  
+- Facilitate communication between stakeholders and the development team.  
+- Aid in organizing and prioritizing system requirements.  
+
+**Use Case Diagram for the Booking Management System:**  
+The key actors and use cases are:  
+
+**Actors:**  
+- Guest / User  
+- Registered User  
+- Admin  
+- Payment Gateway  
+
+**Use Cases:**  
+- Search Properties  
+- Register / Login  
+- Book Property  
+- Cancel / Modify Booking  
+- Make Payment  
+- Manage Property Listings  
+- Send Notifications  
+
+**Diagram:**  
+You can create the use case diagram using **Draw.io** or any similar diagram tool. Save it as **alx-booking-uc.png** and place it in your repository. Then link it in your README as follows:
+
+![Use Case Diagram](alx-booking-uc.png)
 
